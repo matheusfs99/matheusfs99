@@ -4,7 +4,7 @@
 
 * I am a Computer Science Student💻 and I am already completing this mission🎓 </br>
 * I had my first experience in the world of programming with web development👨‍💻 and decided to venture into this world🌎 </br>
-* I've been studying and creating small projects using the Python language🐍 and the Django framework. My project codes are here:octocat: </br>
+* I've been studying and creating small projects using the Python🐍 and the Django framework. My project codes are here:octocat: </br>
 * I'm in love with soccer⚽ and a very bad video game player🎮 </br>
 
 ----
