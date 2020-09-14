@@ -24,22 +24,22 @@ The main technologies I know are: </br>
 ----
 
 And other things about me are on my social networks: </br>
-<a target="blank" href="https://www.linkedin.com/in/matheus-farias/">
+<a target="_blank" href="https://www.linkedin.com/in/matheus-farias/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="blank" href="https://www.instagram.com/matheus_farias99/">
+<a target="_blank" href="https://www.instagram.com/matheus_farias99/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="blank" href="https://www.facebook.com/matheusfs99">
+<a target="_blank" href="https://www.facebook.com/matheusfs99">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a target="blank" href="mailto:matheusfarias009@hotmail.com">
+<a target="_blank" href="mailto:matheusfarias009@hotmail.com">
   <img align="left" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/microsoftoutlook.svg" />
 </a>
-<a target="blank" href="https://api.whatsapp.com/send?phone=5581985451247">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="blank" href="https://t.me/matheusfs99">
+<a target="_blank" href="https://t.me/matheusfs99">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a></br>
 
