@@ -1,4 +1,4 @@
-### Hello World!👋 I'm Matheus!🤓</br>
+## Hello World!👋 I'm Matheus!🤓</br>
 
 ----
 
@@ -9,7 +9,7 @@
 
 ----
 
-The main technologies I know are: </br>
+### 👨🏻‍💻The main technologies I know are: </br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -23,7 +23,7 @@ The main technologies I know are: </br>
 
 ----
 
-And other things about me are on my social networks: </br>
+### 🗣 And other things about me are on my social networks: </br>
 <a target="_blank" href="https://www.linkedin.com/in/matheus-farias/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -45,6 +45,6 @@ And other things about me are on my social networks: </br>
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+### 📊 View my stats on Github 
 ![Matheusfs99 GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfs99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfs99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/matheusfs99/github-readme-stats)
