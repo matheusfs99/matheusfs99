@@ -28,13 +28,13 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/mfariass99/">
-  <img align="left" alt="Instagram" width="22px" src="https://i.pinimg.com/originals/c8/95/2d/c8952d6e421a83d298a219edee783167.jpg" />
+  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 <a target="_blank" href="https://www.facebook.com/matheusfs99">
   <img align="left" alt="Facebook" width="22px" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0---cone-do-facebook-nas-redes-sociais-by-vexels.png" />
 </a>
 <a target="_blank" href="mailto:matheusfarias009@hotmail.com">
-  <img align="left" alt="Outlook" width="22px" src="https://i.pinimg.com/originals/19/1e/ae/191eae7e634feacd23b207170960bcaa.png" />
+  <img align="left" alt="Outlook" width="22px" src="https://img.icons8.com/color/452/microsoft-outlook-2019--v2.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
   <img align="left" alt="Whatsapp" width="22px" src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" />
