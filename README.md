@@ -1,6 +1,5 @@
 ## Hello World!👋 I'm Matheus!🤓</br>
 
-----
 
 * I am a Computer Science Student💻 and I am already completing this mission🎓 </br>
 * I had my first experience in the world of programming with web development👨‍💻 and decided to venture into this world🌎 </br>
@@ -43,4 +42,3 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
 </a></br>
 
-----
