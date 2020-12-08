@@ -44,7 +44,3 @@
 </a></br>
 
 ----
-
-### 📊 View my stats on Github 
-![Matheusfs99 GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusfs99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfs99&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/matheusfs99/github-readme-stats)
