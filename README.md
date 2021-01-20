@@ -38,7 +38,7 @@
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
   <img align="left" alt="Whatsapp" width="22px" src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" />
 </a>
-<a target="_blank" href="https://t.me/matheusfs99">
+<a target="_blank" href="https://t.me/mfariass">
   <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
 </a></br>
 
