@@ -41,4 +41,8 @@
 <a target="_blank" href="https://t.me/mfariass">
   <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
 </a></br>
-
+<br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfs99&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfs99&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+<div>
