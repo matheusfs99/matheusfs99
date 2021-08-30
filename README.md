@@ -1,46 +1,48 @@
 ## Hello World!👋 I'm Matheus!🤓</br>
 
-
-* I have a degree in computer science 💻🎓 I graduated in the year 2021. </br>
-* I had my first experience in the world of programming with web development👨‍💻 and decided to venture into this world🌎 </br>
-* I've been studying and creating small projects using the Python🐍 and the Django framework. My project codes are here:octocat: </br>
-* I'm in love with soccer⚽ and a very bad video game player🎮 </br>
+<div>
+ 💻 I'm a computer science graduate. I graduated in the year 2021 🎓 </br>
+ 👨‍💻 I had my first experience in the world of programming with web development and decided to venture into this world 🌎 </br>
+ 🐍 I work using the language Python and the framework Django. My project codes are here :octocat: </br>
+</div>
 
 ----
 
 ### 👨🏻‍💻The main technologies I know are: </br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<div>
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ----
 
 ### 🗣 And other things about me are on my social networks: </br>
-<a target="_blank" href="https://www.linkedin.com/in/matheus-farias/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />
-</a>
-<a target="_blank" href="https://www.instagram.com/mfariass99/">
-  <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-<a target="_blank" href="https://www.facebook.com/matheusfs99">
-  <img align="left" alt="Facebook" width="22px" src="https://images.vexels.com/media/users/3/223136/isolated/preview/984f500cf9de4519b02b354346eb72e0---cone-do-facebook-nas-redes-sociais-by-vexels.png" />
-</a>
-<a target="_blank" href="mailto:matheusfarias009@hotmail.com">
-  <img align="left" alt="Outlook" width="22px" src="https://img.icons8.com/color/452/microsoft-outlook-2019--v2.png" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
-  <img align="left" alt="Whatsapp" width="22px" src="https://imagepng.org/wp-content/uploads/2017/08/whatsapp-icone-1.png" />
-</a>
-<a target="_blank" href="https://t.me/mfariass">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />
-</a></br>
+<div>
+  <a target="_blank" href="https://www.linkedin.com/in/matheus-farias/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+  <a target="_blank" href="https://t.me/mfariass">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/mfariass99/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a target="_blank" href="mailto:matheusfarias009@hotmail.com">
+    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
+  </a>
+  </br>
+</div>
 
 ----
 
