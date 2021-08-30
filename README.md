@@ -1,7 +1,7 @@
 ## Hello World!👋 I'm Matheus!🤓</br>
 
 <div>
- 💻 I'm a computer science graduate. I graduated in the year 2021 🎓 </br>
+ 💻 I'm computer science graduate. I graduated in the year 2021 🎓 </br>
  👨‍💻 I had my first experience in the world of programming with web development and decided to venture into this world 🌎 </br>
  🐍 I work using the language Python and the framework Django. My project codes are here :octocat: </br>
 </div>
