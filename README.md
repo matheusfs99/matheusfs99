@@ -1,4 +1,4 @@
-## Hello World!👋 I'm Matheus!🤓</br>
+## 👋 Hello World! I'm Matheus!🤓</br>
 
 <div>
  💻 I'm computer science graduate. I graduated in 2021  🎓 </br>
