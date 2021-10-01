@@ -52,6 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfs99&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
-----
+<!-- ----
 ### Contributions
   ![Snake animation](https://github.com/matheusfs99/matheusfs99/blob/output/github-contribution-grid-snake.svg)
+ -->
