@@ -6,7 +6,7 @@
  🐍 I work using the Python language and the Django framework. My project codes are here :octocat: </br>
 </div>
 
-----
+<br>
 
 ### 👨🏻‍💻The main technologies I know are: </br>
 <div>
@@ -22,7 +22,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-----
+<br>
 
 ### 🗣 And other things about me are on my social networks: </br>
 <div>
@@ -44,7 +44,7 @@
   </br>
 </div>
 
-----
+<br>
 
 ### 📊 My stats on GitHub
 <div>
