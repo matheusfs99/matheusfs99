@@ -32,7 +32,7 @@
   <a target="_blank" href="https://api.whatsapp.com/send?phone=5581985451247">
     <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a target="_blank" href="https://t.me/mfariass">
+  <a target="_blank" href="https://t.me/matheusfs99">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
   <a target="_blank" href="https://www.instagram.com/mfariass99/">
