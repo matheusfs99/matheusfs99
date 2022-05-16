@@ -35,7 +35,7 @@
   <a target="_blank" href="https://t.me/matheusfs99">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
-  <a target="_blank" href="https://www.instagram.com/mfariass99/">
+  <a target="_blank" href="https://www.instagram.com/matheusfariass99/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a target="_blank" href="mailto:matheusfarias009@hotmail.com">
