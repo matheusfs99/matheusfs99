@@ -3,7 +3,7 @@
 <div>
  🎓 I'm computer science graduate. I graduated in 2021   </br>
  👨‍💻 I had my first experience in the world of programming with web development and decided to venture into this world  </br>
- 🐍 I work using the Python language and the Django framework. My project codes are here :octocat: </br>
+ 🐍 I work using the Python language and the Django framework.</br>
 </div>
 
 <br>
